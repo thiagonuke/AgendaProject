@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projeto\\Processo\\AgendaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF8C4D6-EDC2-4990-9824-40B400E0621D}|Agenda.Data\\Agenda.Data.vbproj|e:\\projeto\\processo\\agendaproject\\agenda.data\\connectionstring\\conapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AAF8C4D6-EDC2-4990-9824-40B400E0621D}|Agenda.Data\\Agenda.Data.vbproj|solutionrelative:agenda.data\\connectionstring\\conapp.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|e:\\projeto\\processo\\agendaproject\\agendaproject\\home\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|solutionrelative:agendaproject\\home\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|e:\\projeto\\processo\\agendaproject\\agendaproject\\home\\cadastrarcompromisso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|solutionrelative:agendaproject\\home\\cadastrarcompromisso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|E:\\Projeto\\Processo\\AgendaProject\\agendaproject\\home\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|solutionrelative:agendaproject\\home\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|e:\\projeto\\processo\\agendaproject\\agendaproject\\home\\cadastrarcompromisso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|solutionrelative:agendaproject\\home\\cadastrarcompromisso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|E:\\Projeto\\Processo\\AgendaProject\\agendaproject\\logon\\cadastrar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|solutionrelative:agendaproject\\logon\\cadastrar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF8C4D6-EDC2-4990-9824-40B400E0621D}|Agenda.Data\\Agenda.Data.vbproj|E:\\Projeto\\Processo\\AgendaProject\\agenda.data\\repositories\\homerepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AAF8C4D6-EDC2-4990-9824-40B400E0621D}|Agenda.Data\\Agenda.Data.vbproj|solutionrelative:agenda.data\\repositories\\homerepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455B793A-A7C8-44BD-88D2-DD7D6152B7FF}|Agenda.Service\\Agenda.Service.vbproj|E:\\Projeto\\Processo\\AgendaProject\\agenda.service\\services\\homeservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{455B793A-A7C8-44BD-88D2-DD7D6152B7FF}|Agenda.Service\\Agenda.Service.vbproj|solutionrelative:agenda.service\\services\\homeservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF8C4D6-EDC2-4990-9824-40B400E0621D}|Agenda.Data\\Agenda.Data.vbproj|E:\\Projeto\\Processo\\AgendaProject\\agenda.data\\repositories\\segurancarepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AAF8C4D6-EDC2-4990-9824-40B400E0621D}|Agenda.Data\\Agenda.Data.vbproj|solutionrelative:agenda.data\\repositories\\segurancarepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC040E9-EA31-4722-B5ED-B95BE6591022}|Agenda.Domain\\Agenda.Domain.vbproj|e:\\projeto\\processo\\agendaproject\\agenda.domain\\classes\\compromisso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BEC040E9-EA31-4722-B5ED-B95BE6591022}|Agenda.Domain\\Agenda.Domain.vbproj|solutionrelative:agenda.domain\\classes\\compromisso.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|E:\\Projeto\\Processo\\AgendaProject\\agendaproject\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|solutionrelative:agendaproject\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC040E9-EA31-4722-B5ED-B95BE6591022}|Agenda.Domain\\Agenda.Domain.vbproj|E:\\Projeto\\Processo\\AgendaProject\\agenda.domain\\classes\\usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BEC040E9-EA31-4722-B5ED-B95BE6591022}|Agenda.Domain\\Agenda.Domain.vbproj|solutionrelative:agenda.domain\\classes\\usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455B793A-A7C8-44BD-88D2-DD7D6152B7FF}|Agenda.Service\\Agenda.Service.vbproj|E:\\Projeto\\Processo\\AgendaProject\\agenda.service\\services\\segurancaservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{455B793A-A7C8-44BD-88D2-DD7D6152B7FF}|Agenda.Service\\Agenda.Service.vbproj|solutionrelative:agenda.service\\services\\segurancaservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF8C4D6-EDC2-4990-9824-40B400E0621D}|Agenda.Data\\Agenda.Data.vbproj|e:\\projeto\\processo\\agendaproject\\agenda.data\\connectionstring\\dbconfig.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AAF8C4D6-EDC2-4990-9824-40B400E0621D}|Agenda.Data\\Agenda.Data.vbproj|solutionrelative:agenda.data\\connectionstring\\dbconfig.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|E:\\Projeto\\Processo\\AgendaProject\\agendaproject\\logon\\logon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|solutionrelative:agendaproject\\logon\\logon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|E:\\Projeto\\Processo\\AgendaProject\\agendaproject\\logon\\logon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|solutionrelative:agendaproject\\logon\\logon.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|E:\\Projeto\\Processo\\AgendaProject\\agendaproject\\logon\\cadastrar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|solutionrelative:agendaproject\\logon\\cadastrar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AgendaProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|E:\\Projeto\\Processo\\AgendaProject\\agendaproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|solutionrelative:agendaproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969D7E0B-3466-4EDA-8953-04B8EDC83E83}|AgendaProject\\AgendaProject.vbproj|e:\\projeto\\processo\\agendaproject\\agendaproject\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 275,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SegurancaService.vb",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Service\\Services\\SegurancaService.vb",
+              "RelativeDocumentMoniker": "Agenda.Service\\Services\\SegurancaService.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Service\\Services\\SegurancaService.vb",
+              "RelativeToolTip": "Agenda.Service\\Services\\SegurancaService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T01:48:09.57Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logon.vb",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Logon\\Logon.vb",
+              "RelativeDocumentMoniker": "AgendaProject\\Logon\\Logon.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Logon\\Logon.vb",
+              "RelativeToolTip": "AgendaProject\\Logon\\Logon.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T02:54:42.781Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cadastrar.vb",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Logon\\Cadastrar.vb",
+              "RelativeDocumentMoniker": "AgendaProject\\Logon\\Cadastrar.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Logon\\Cadastrar.vb",
+              "RelativeToolTip": "AgendaProject\\Logon\\Cadastrar.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T04:00:11.102Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConApp.vb",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Data\\ConnectionString\\ConApp.vb",
+              "RelativeDocumentMoniker": "Agenda.Data\\ConnectionString\\ConApp.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Data\\ConnectionString\\ConApp.vb",
+              "RelativeToolTip": "Agenda.Data\\ConnectionString\\ConApp.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T19:40:45.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastrarCompromisso.vb",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Home\\CadastrarCompromisso.vb",
+              "RelativeDocumentMoniker": "AgendaProject\\Home\\CadastrarCompromisso.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Home\\CadastrarCompromisso.vb",
+              "RelativeToolTip": "AgendaProject\\Home\\CadastrarCompromisso.vb",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T19:15:19.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastrarCompromisso.vb [Design]",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Home\\CadastrarCompromisso.vb",
+              "RelativeDocumentMoniker": "AgendaProject\\Home\\CadastrarCompromisso.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Home\\CadastrarCompromisso.vb [Design]",
+              "RelativeToolTip": "AgendaProject\\Home\\CadastrarCompromisso.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T18:48:00.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbconfig.txt",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Data\\ConnectionString\\dbconfig.txt",
+              "RelativeDocumentMoniker": "Agenda.Data\\ConnectionString\\dbconfig.txt",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Data\\ConnectionString\\dbconfig.txt",
+              "RelativeToolTip": "Agenda.Data\\ConnectionString\\dbconfig.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-26T18:39:39.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Compromisso.vb",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Domain\\Classes\\Compromisso.vb",
+              "RelativeDocumentMoniker": "Agenda.Domain\\Classes\\Compromisso.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Domain\\Classes\\Compromisso.vb",
+              "RelativeToolTip": "Agenda.Domain\\Classes\\Compromisso.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T18:30:49.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeRepository.vb",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Data\\Repositories\\HomeRepository.vb",
+              "RelativeDocumentMoniker": "Agenda.Data\\Repositories\\HomeRepository.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Data\\Repositories\\HomeRepository.vb",
+              "RelativeToolTip": "Agenda.Data\\Repositories\\HomeRepository.vb",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T05:20:15.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeService.vb",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Service\\Services\\HomeService.vb",
+              "RelativeDocumentMoniker": "Agenda.Service\\Services\\HomeService.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Service\\Services\\HomeService.vb",
+              "RelativeToolTip": "Agenda.Service\\Services\\HomeService.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T05:19:54.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.vb",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Home\\Home.vb",
+              "RelativeDocumentMoniker": "AgendaProject\\Home\\Home.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Home\\Home.vb",
+              "RelativeToolTip": "AgendaProject\\Home\\Home.vb",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T05:01:39.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.vb [Design]",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Home\\Home.vb",
+              "RelativeDocumentMoniker": "AgendaProject\\Home\\Home.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Home\\Home.vb [Design]",
+              "RelativeToolTip": "AgendaProject\\Home\\Home.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T04:53:37.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cadastrar.vb [Design]",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Logon\\Cadastrar.vb",
+              "RelativeDocumentMoniker": "AgendaProject\\Logon\\Cadastrar.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Logon\\Cadastrar.vb [Design]",
+              "RelativeToolTip": "AgendaProject\\Logon\\Cadastrar.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T03:57:12.118Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SegurancaRepository.vb",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Data\\Repositories\\SegurancaRepository.vb",
+              "RelativeDocumentMoniker": "Agenda.Data\\Repositories\\SegurancaRepository.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Data\\Repositories\\SegurancaRepository.vb",
+              "RelativeToolTip": "Agenda.Data\\Repositories\\SegurancaRepository.vb",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T02:59:11.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "AgendaProject\\My Project\\Application.Designer.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "AgendaProject\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T02:43:45.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AgendaProject",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\AgendaProject.vbproj",
+              "RelativeDocumentMoniker": "AgendaProject\\AgendaProject.vbproj",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\AgendaProject.vbproj",
+              "RelativeToolTip": "AgendaProject\\AgendaProject.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T02:43:24.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\App.config",
+              "RelativeDocumentMoniker": "AgendaProject\\App.config",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\App.config",
+              "RelativeToolTip": "AgendaProject\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-26T02:43:21.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.vb",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Domain\\Classes\\Usuario.vb",
+              "RelativeDocumentMoniker": "Agenda.Domain\\Classes\\Usuario.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\Agenda.Domain\\Classes\\Usuario.vb",
+              "RelativeToolTip": "Agenda.Domain\\Classes\\Usuario.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T02:05:52.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Logon.vb [Design]",
+              "DocumentMoniker": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Logon\\Logon.vb",
+              "RelativeDocumentMoniker": "AgendaProject\\Logon\\Logon.vb",
+              "ToolTip": "E:\\Projeto\\Processo\\AgendaProject\\AgendaProject\\Logon\\Logon.vb [Design]",
+              "RelativeToolTip": "AgendaProject\\Logon\\Logon.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-26T01:45:55.082Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+E:\Projeto\Processo\AgendaProject\Agenda.Domain\bin\Debug\Agenda.Domain.dll
+E:\Projeto\Processo\AgendaProject\Agenda.Domain\bin\Debug\Agenda.Domain.pdb
+E:\Projeto\Processo\AgendaProject\Agenda.Domain\bin\Debug\Agenda.Domain.xml
+E:\Projeto\Processo\AgendaProject\Agenda.Domain\obj\Debug\Agenda.Domain.vbproj.AssemblyReference.cache
+E:\Projeto\Processo\AgendaProject\Agenda.Domain\obj\Debug\Agenda.Domain.Resources.resources
+E:\Projeto\Processo\AgendaProject\Agenda.Domain\obj\Debug\Agenda.Domain.vbproj.GenerateResource.cache
+E:\Projeto\Processo\AgendaProject\Agenda.Domain\obj\Debug\Agenda.Domain.vbproj.CoreCompileInputs.cache
+E:\Projeto\Processo\AgendaProject\Agenda.Domain\obj\Debug\Agenda.Domain.dll
+E:\Projeto\Processo\AgendaProject\Agenda.Domain\obj\Debug\Agenda.Domain.xml
+E:\Projeto\Processo\AgendaProject\Agenda.Domain\obj\Debug\Agenda.Domain.pdb

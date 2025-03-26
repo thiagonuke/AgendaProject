@@ -1,0 +1,1 @@
+﻿Server=DESKTOP-F2SGKR6\SQLEXPRESS;Database=AgendaDB;Integrated Security=True;
