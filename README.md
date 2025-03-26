@@ -20,9 +20,46 @@ Este é um sistema de gerenciamento de compromissos desenvolvido com VB.NET Wind
 
 ### Banco de Dados
 
+Script de Tabelas
+
+**Usuarios**
+CREATE TABLE [dbo].[Usuarios](
+    [Id] [int] IDENTITY(1,1) NOT NULL,
+      NULL,
+      NOT NULL,
+    [Senha] [nvarchar](max) NOT NULL,
+    [Logado] [bit] NULL,
+ CONSTRAINT [PK_Usuarios] PRIMARY KEY CLUSTERED 
+(
+    [Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+**Compromissos**
+CREATE TABLE [dbo].[Compromissos](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Titulo] [nvarchar](255) NULL,
+	[Descricao] [nvarchar](500) NULL,
+	[DataInicio] [datetime] NULL,
+	[DataFim] [datetime] NULL,
+	[Localizacao] [nvarchar](255) NULL,
+	[CriadoEm] [datetime] NULL,
+	[IdUsuario] [int] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[Compromissos] ADD  DEFAULT (getdate()) FOR [CriadoEm]
+GO
+
 Dentro da classe `conApp`, defina a connection string no retorno da função `GetConnectionString`. A connection string deve apontar para o banco de dados do SQL Server que contém as tabelas de usuários e compromissos.
 
 ```vb
 Public Function GetConnectionString() As String
     Return "Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;"
 End Function
+
